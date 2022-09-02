@@ -11,3 +11,6 @@ Install Django
 * Run 'pyhon manage.py makemigrations'
 * Run 'python manage.py migrate'
 * Run 'python manage.py Runserver'
+
+### Video Demo
+[Youtube](https://www.youtube.com/watch?v=RvB63wlE5GY)
